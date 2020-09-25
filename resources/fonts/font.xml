@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="仿宋_GB2312">
+        <normal>fonts/FangSong_GB2312.ttf</normal>
+        <bold>fonts/FangSong_GB2312.ttf</bold>
+        <italic>fonts/FangSong_GB2312.ttf</italic>
+        <boldItalic>fonts/FangSong_GB2312.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'仿宋_GB2312', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'仿宋_GB2312', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+</fontFamilies>

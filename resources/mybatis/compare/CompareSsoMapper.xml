@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="CompareSsoMapper">
+
+    <select id="comparaSso" parameterType="pd" resultType="pd">
+        SELECT SSO
+        FROM T_SSO
+        WHERE STATUS = '1'
+        AND SSO = #{SSO}
+    </select>
+
+    <insert id="creatSso" parameterType="java.lang.String">
+        insert into T_SSO(SSO) VALUES(#{str})
+    </insert>
+
+</mapper>

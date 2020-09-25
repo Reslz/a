@@ -1,0 +1,90 @@
+	<html>
+	<head>
+	<title>中国12315产品验证系统</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link href="media/css/style.css" rel="stylesheet" type="text/css">
+	<script src="media/javascript/global.js" type="text/javascript" language="javascript"></script>
+	</head>
+	<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	<table width="750" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td bgcolor="#EFFAFE"><a href="/"><img src="media/images/index_01.jpg" width="444" height="83" border="0"></a></td>
+	        <td align="right" valign="top">
+	        <div style="padding:8px;">
+	        	        </div>
+	        </td>
+		</tr>
+	</table>
+	<table width="750" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td style="background-image:url(../images/index_03.jpg); height:48px;"></td>
+	  </tr>
+	</table>
+	<form id="qForm" name="qForm" method="post" action="/">
+	<input type="hidden" name="act" value="query" />
+	<table width="750" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td class="border">
+		        <table border="0" cellspacing="0" cellpadding="0" style="margin-top:36px; margin-bottom:12px;">
+			  <tr>
+			    <td width="170" align="right" style="font-size:14px; font-weight:bold; color:#0684d1;">请输入防伪码：</td>
+			    <td width="325"><input name="c" type="tel" id="c" style="border:1px solid #1aa4d3; width:310px; height:33px; font-size:16px; padding-top:6px; padding-left:6px; font-family:Arial, Helvetica, sans-serif;" onKeyUp="check()" onafterpaste="check()" value="" /></td>
+			    <td><img src="media/images/index_06.jpg" onClick="submitForm()" style="cursor:hand;" /></td>
+		      </tr>
+		    </table>
+	        <table border="0" cellpadding="0" cellspacing="0">
+	          <tr>
+	            <td width="183">&nbsp;</td>
+	            <td width="30"><img src="media/images/index_10.jpg" onClick="sn(1)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_12.jpg" onClick="sn(2)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_14.jpg" onClick="sn(3)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_16.jpg" onClick="sn(4)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_18.jpg" onClick="sn(5)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_20.jpg" onClick="sn(6)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_22.jpg" onClick="sn(7)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_24.jpg" onClick="sn(8)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_26.jpg" onClick="sn(9)" style="cursor:hand;" /></td>
+	            <td width="30"><img src="media/images/index_28.jpg" onClick="sn(0)" style="cursor:hand;" /></td>
+	          </tr>
+	        </table>
+	        	        <table border="0" cellspacing="0" cellpadding="0">
+	          <tr>
+	            <td style="padding:30px 110px 0px 55px; color:#747070; line-height:23px; font-size:12px;">
+	              • 防伪提示：请依次输入产品防伪标签上20位防伪码，然后点击“查询”验证真伪。<br>• 本站作为第三方真伪公证服务机构，为消费者提供权威的产品真伪信息查询，无论何时，我们将秉承客观中立的立场，为消费者和品牌企业服务。<br>• 中国12315防伪官网：<FONT COLOR="blue" size=4><b>www.zhongguo12315.cn</b></FONT> 请牢记官网地址，谨防仿冒网站。<br>• 在国家工商总局合法登记的商标持有人，两年内没有发生重大产品质量问题的企业，可以申请中国12315防伪标签。<br>•已经申请中国12315防伪标签的企业，需严格自律，若发生重大产品质量问题、欺诈消费者行为，将终止为其服务。</td>
+	          </tr>
+	        </table>
+	        
+	        </td>
+	  </tr>
+	</table>
+	</form>
+	<table width="750" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td style="background-image:url(../images/index_31.jpg); height:17px;"></td>
+	  </tr>
+	</table>
+	<table width="676" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td height="57" style="line-height:18px;">Copyright©中国12315防伪(厦门千盾信息技术有限公司) &nbsp;电话：400-180-1357 &nbsp;<a href="http://www.miitbeian.gov.cn" &nbsp;target="_blank">ICP备：13001542</a><br><a href="http://www.12315.cn/" target="_blank" style="font-size: 16px; color:red; font-weight: bold; line-height:30px;">在线投诉、举报及进度查询</a>	        <script language="javascript" type="text/javascript" src="http://js.users.51.la/16687675.js"></script>
+	<noscript><a href="http://www.51.la/?16687675" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/16687675.asp" style="border:none" /></a></noscript>
+	        </td>
+	  </tr>
+	</table>
+	<div style="position:absolute; left:10px; top:150px; clear: both; margin: 0; padding: 0;">
+	<img src="../media/images/qrcode_12315.jpg" /><br>
+		<div style="text-align:center; padding-top:5px;">
+	    <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1102312315&site=中国12315客服&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1102312315:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+	    </div>
+	</div>
+	<div style="position:absolute; right:10px; top:150px; clear: both; margin: 0; padding: 0;">
+	<a href="order.php"><img src="../media/images/order.jpg" /></a>
+	</div>
+	  <script language=javascript>
+	    var LiveAutoInvite0='您好，来自%IP%的朋友';
+	    var LiveAutoInvite1='来自首页的对话';
+	    var LiveAutoInvite2=' 网站商务通 主要功能：<br>1、主动邀请<br>2、即时沟通<br>3、查看即时访问动态<br>4、访问轨迹跟踪<br>5、内部对话<br>6、不安装任何插件也实现双向文件传输<br><br><b>如果您有任何问题请接受此邀请以开始即时沟通</b>';
+	  </script>
+	  <script language="javascript" src="http://kht.zoosnet.net/JS/LsJS.aspx?siteid=KHT20199483&float=1&lng=cn"></script>
+	</body>
+	</html>
+<!--  -->
